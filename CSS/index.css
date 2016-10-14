@@ -1,0 +1,23 @@
+body {
+	
+	
+}
+.me{
+	text-align: center;
+	color: red;
+}
+
+.about-me {
+	font-size: 16px;
+	color: red;
+}
+
+.btn {
+	background-color: blue;
+	color: #ffffff;
+	border-radius: 10px;
+	height: 50px;
+	width: 200px;
+	font-size: 10px;
+}
+
